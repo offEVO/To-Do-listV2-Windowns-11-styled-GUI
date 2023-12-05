@@ -1,4 +1,4 @@
-# To-Do-listV2-Windowns-11-styled-GUI
+# This is my Version 2 of my To - Do list application using PyQt5 to create a windows 11 (dark themed) To do list application
 
 The setup of my Code is simmular to the previous version of my code.
 
@@ -25,3 +25,5 @@ This is what the Final application will look like ↓↓↓
 ![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/03ad87c8-4ade-4dca-ae92-87ca79a5507f)
 
 Some of the features Consist of:
+
+FYI - In the future I may compile this to c+ and publish it as a desktop application
