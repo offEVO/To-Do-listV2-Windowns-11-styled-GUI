@@ -48,6 +48,11 @@ _________________________________________________
 I also made sure the window was not resizable, This isn't really a feautre but more a small detail 🤏
 
 ![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/bc889909-e73d-4fa0-9014-6f2bf8a768df)
+_________________________________________________
+Once last feature is that, The User can select Multiple tasks, and delete ALL of the ones they with, instead of tediously going 
+through and selecting and deleting 1 by 1 ↓
+
+![Screenshot 2023-12-05 235653](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/98b9323a-82ab-4bfc-9b84-4a7d7bf6b753)
 
 ___________________________________________________________________________________________________________________________________________
                                                                 Extras
