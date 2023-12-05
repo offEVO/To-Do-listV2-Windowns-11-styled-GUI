@@ -26,4 +26,11 @@ This is what the Final application will look like ↓↓↓
 
 Some of the features Consist of:
 
+An add task button, Aswell as the ability to simply press ENTER and have it auto add the Task ↓
+![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/38be7fdd-0701-401d-b457-bdad0dfbe4c3)
+
+Another feauture is the Remove task feature ↓
+![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/3778d65e-3fa2-470a-8ed2-abe27fe67a69)
+
+
 FYI - In the future I may compile this to c+ and publish it as a desktop application
