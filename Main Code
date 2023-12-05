@@ -4,7 +4,6 @@ from PyQt5.QtWidgets import (
     QWidget,
     QVBoxLayout,
     QHBoxLayout,
-    QLabel,
     QLineEdit,
     QPushButton,
     QListWidget,
@@ -34,6 +33,9 @@ class MainWindow(QWidget):
         self.task_entry.setStyleSheet(
             "QLineEdit { background-color: #333; color: white; border-radius: 5px; }"
         )
+        self.task_entry.returnPressed.connect(
+            self.add_task
+        )  # Connect Enter key to add_task
         main_layout.addWidget(self.task_entry)
 
         button_layout = QHBoxLayout()
@@ -61,12 +63,17 @@ class MainWindow(QWidget):
         self.setStyleSheet(
             "QWidget { background-color: #222; color: white; border-radius: 10px; }"
         )
+
+        # Set fixed size policy
+        self.setFixedSize(self.size())
+
         self.show()
 
     def add_task(self):
         task = self.task_entry.text()
         if task:
-            self.task_list.addItem(task)
+            task_with_bullet = "• " + task  # Add a bullet point
+            self.task_list.addItem(task_with_bullet)
             self.task_entry.clear()
             self.save_tasks()
 
