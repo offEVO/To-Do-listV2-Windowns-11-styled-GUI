@@ -1,4 +1,4 @@
-# This is Version 2 of my "To - Do" list application using PyQt5 to create a windows 11 (dark themed) To do list application
+# This is Version 2 of my "To - Do" list application using PyQt5 to create a windows 11 (dark) themed To-do list application
 
 The setup of my Code is simmular to the previous version of my code.
 ___________________________________________________________________________________________________________________________________________
