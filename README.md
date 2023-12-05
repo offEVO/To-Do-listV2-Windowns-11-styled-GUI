@@ -45,7 +45,7 @@ feel more individual and stop them blending into a paragraph ↓
 
 ![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/c5d3a28e-7ac5-4e2e-9574-6a7c42fc3896)
 _________________________________________________
-I also made sure the window was not reliable, This isn't really a feautre but more a small detail 🤏
+I also made sure the window was not resizable, This isn't really a feautre but more a small detail 🤏
 
 ![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/bc889909-e73d-4fa0-9014-6f2bf8a768df)
 
@@ -55,4 +55,9 @@ ________________________________________________________________________________
 
 
  - In the future I may compile this to c+ and publish it as a desktop application
- - 
+ - When there are a bunch of tasks i made sure to add a scolling bar, to navigate the tasks:
+   
+___________________________________________________________________________________________________________________________________________
+
+![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/a1a6e644-faa5-40cd-9a9d-ecdbffd34bf2)
+
