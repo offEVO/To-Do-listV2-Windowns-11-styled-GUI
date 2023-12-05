@@ -60,7 +60,7 @@ ________________________________________________________________________________
 
 
  - In the future I may compile this to c+ and publish it as a desktop application
- - When there are a bunch of tasks i made sure to add a scolling bar, to navigate the tasks:
+ - When there are a bunch of tasks I made sure to add a scolling bar, to navigate the tasks:
    
 ___________________________________________________________________________________________________________________________________________
 
