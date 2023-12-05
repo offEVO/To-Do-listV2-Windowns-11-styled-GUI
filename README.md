@@ -40,7 +40,7 @@ Another feauture is the Remove task feature ↓
 
 ![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/8e8e41e0-a6a0-4da7-b667-32f018faa8ec)
 _________________________________________________
-A feature I thought about adding was bullet points, I believe that this helps the tasks 
+A feature I thought about adding was bullet points, I believe this helps the tasks 
 feel more individual and stop them blending into a paragraph ↓
 
 ![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/c5d3a28e-7ac5-4e2e-9574-6a7c42fc3896)
