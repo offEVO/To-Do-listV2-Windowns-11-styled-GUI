@@ -19,3 +19,9 @@ ________________________________________________________________________________
 From there all you should need to do is past the code in to the code editor of choice:
 
 ![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/83d41c90-6463-43e9-8234-76da1ec3da6d)
+
+This is what the Final application will look like ↓↓↓
+
+![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/03ad87c8-4ade-4dca-ae92-87ca79a5507f)
+
+Some of the features Consist of:
