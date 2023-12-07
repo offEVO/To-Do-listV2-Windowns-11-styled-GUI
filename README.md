@@ -19,7 +19,7 @@ The next step is to install the necessary dependency's ↓↓↓
 ![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/05e73e75-d96c-4a8d-83f6-f8df4d3141c6)
 We can use the python installer "PIP" to install the necessary library's
 ___________________________________________________________________________________________________________________________________________
-From there all you should need to do is past the code in to the code editor of choice:
+From there all you should need to do is paste the code in to the code editor of choice:
 
 ![image](https://github.com/offEVO/To---Do-listV2-Windowns-11-styled-GUI/assets/140699812/83d41c90-6463-43e9-8234-76da1ec3da6d)
 
